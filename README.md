@@ -1,6 +1,6 @@
 # web_test
 
-A new Flutter project.
+A new Flutter project that works in android, ios, and web browsers. 
 
 ## Getting Started
 
